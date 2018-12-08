@@ -1,0 +1,7 @@
+- in the file 20180529-02, what is &*? why is it right?
+ans :
+
+*NOTES : ++i and ++i is a bit different
+https://stackoverflow.com/questions/24853/what-is-the-difference-between-i-and-i
+
+BUT!!! for a 'for' loop both work the same way!

@@ -1,0 +1,3 @@
+So even though recursion represented the algorithm in a natural way, it is very inefficient in this case.
+
+Thus, recursion may cause memory overflow if your stack space is large, and is also inefficient in cases where the same value is calculated again and again. So, use either iteration or recursion according to the task you want to perform. If simplicity is required and memory overflow is not a major issue then use recursion otherwise go with iterations.

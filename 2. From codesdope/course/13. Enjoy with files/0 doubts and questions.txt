@@ -1,0 +1,6 @@
+- Why is "&" not used in scanf function while reading a string in C programming?
+
+ans : https://www.quora.com/Why-is-not-used-in-scanf-function-while-reading-a-string-in-C-programming
+
+- what is %? 
+ans : s% is format specifier!!
